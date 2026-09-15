@@ -68,7 +68,7 @@ header{
 #section2{
   padding: 0 0px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 .div-fundo{
   width: 600px;
