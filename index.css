@@ -71,8 +71,9 @@ header{
   justify-content: space-between;
 }
 .div-fundo{
-  width: 100px;
+  width: 300px;
   height: 400px;
+  border-color: red;
   background-image: url("./assets/bgsection2.png");
   background-position: left;
   background-repeat: no-repeat;
