@@ -69,11 +69,11 @@ header{
   padding: 0 0px;
   display: flex;
   justify-content: space-between;
-  width: 600px;
+  /*width: 600px;
   height: 800px;
   background-image: url("./assets/bgsection2.png");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
 
 }
