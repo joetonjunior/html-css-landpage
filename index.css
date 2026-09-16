@@ -79,7 +79,7 @@ header{
     }
     & div:last-child{
         display: flex;
-        justify-content: center;
+        justify-content: align-between;
         & img{
           width: 325px;
           height: 215px;
