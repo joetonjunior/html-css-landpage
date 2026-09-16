@@ -66,13 +66,23 @@ header{
     }
 }
 #section2{
-    padding: 0 220px;
+    /* padding: 0 220px; */
     display: flex;
     flex-direction: column;
     align-items:center;
+    justify-content: center;
     & div:first-child{
         display: flex;
+        align-items:center;
         flex-direction: column;
+        & h3{
+            font-weight: 600;
+            font-size: 40px;
+        }
+        & p{
+            font-weight: 400;
+            font-size: 16px;
+        }
         & a{
           text-decoration: none;
         }
@@ -81,14 +91,15 @@ header{
         display: flex;
         justify-content: align-between;
         & img{
-          width: 325px;
+          width: 225px;
           height: 215px;
         }
         & div{
-            width: 325px;
+            width: 225px;
             height: 468px;
             margin-bottom: 8px;
             padding-top: 160px;
+        }
         & h2{font-size: 24pxpx;}
         & h3{font-size: 16px;}
         & p{font-size: 12px;}
@@ -103,5 +114,4 @@ header{
         }
     }
   
-  }
 }
