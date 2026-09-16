@@ -81,4 +81,5 @@ header{
 }
 .joecode{
   display: flex;
+  justify-content: space-between;
 }
