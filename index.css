@@ -155,6 +155,9 @@ header{
     flex-direction: row;
     & .preco{
       background-color:#ffffff;
+      line-height: 30px;
+      width: 80px;
+      border-radius:25px;
     }
     & h2{
       font-weight: 600;
