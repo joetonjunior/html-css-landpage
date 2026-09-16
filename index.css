@@ -158,21 +158,25 @@ header{
       line-height: 30px;
       width: 80px;
       border-radius:25px;
-      margin-left: 125px;
+      margin-left: 280px;
     }
     & h2{
+      margin-left: 280px;
       font-weight: 600;
       font-size: 40px;
     }
     & h3{
+      margin-left: 280px;
       font-weight: 600;
       font-size: 40px;
     }
     & .p2{
+      margin-left: 280px;
       font-weight: 600;
       font-size: 40px;
     }
     & a{
+      margin-left: 280px;
       color: #3C0E0E;
       font-weight: bold;
     }
