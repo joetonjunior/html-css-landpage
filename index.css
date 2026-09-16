@@ -79,7 +79,14 @@ header{
     }
     & div:last-child{
         display: flex;
+        justify-content: center;
+        & img{
+          width: 325px;
+          height: 215px;
+        }
         & div{
+            width: 325px;
+            height: 215px;
             font-size: 24px;
             margin-bottom: 8px;
             padding-top: 160px;
