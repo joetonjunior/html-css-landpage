@@ -72,11 +72,12 @@ header{
     align-items:center;
     & div:first-child{
         color: #3C0E0E;
-        padding-top: 160px;
-        padding-left: 40px;
+        
         & h3{
             font-size: 24px;
             margin-bottom: 8px;
+            padding-top: 160px;
+            padding-left: 40px;
         }
         & p{
             width: 350px;
