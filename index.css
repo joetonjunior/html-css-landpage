@@ -147,3 +147,9 @@ header{
     }
     
 }
+#dicume{
+  & .preco{
+    background-color:#ffffff;
+    
+  }
+}
