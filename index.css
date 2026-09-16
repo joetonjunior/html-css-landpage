@@ -67,6 +67,7 @@ header{
 }
 
 .teste{
+  padding: 0 220px;
   display: flex;
   flex-direction: column;
   align-items:center;
