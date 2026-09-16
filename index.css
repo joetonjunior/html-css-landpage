@@ -82,5 +82,7 @@ header{
 .joecode{
   padding: 0 220px;
   display: flex;
+  padding-top: 160px;
+        padding-left: 40px;
   justify-content: space-between;
 }
