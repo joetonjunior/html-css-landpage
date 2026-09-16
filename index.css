@@ -148,8 +148,29 @@ header{
     
 }
 #dicume{
-  & .preco{
-    background-color:#ffffff;
-    
+  display: flex;
+  flex-direction: column;
+  & .primaterceira{
+    display: flex;
+    flex-direction: row;
+    & .preco{
+      background-color:#ffffff;
+    }
+    & h2{
+      font-weight: 600;
+      font-size: 40px;
+    }
+    & h3{
+      font-weight: 600;
+      font-size: 40px;
+    }
+    & .p2{
+      font-weight: 600;
+      font-size: 40px;
+    }
+    & a{
+      color: #3C0E0E;
+      font-weight: bold;
+    }
   }
 }
